@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Bungee+Inline");
+body {
+  font-family: 'Bungee Inline', sans-serif;
+}
+#demo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: background: #6a3093; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #6a3093 , #a044ff); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #6a3093 , #a044ff); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */    
+}
+span {
+  font-size: 8vw;
+  font-weight: 200;
+}
+.color1 {
+  color: #F57C00;
+}
+.color2 {
+  color: #FFC107
+;
+}
+.color3 {
+  color: #FF5722;
+}
+.color4 {
+  color: #FF8F00;
+}
+.color5 {
+  color: #FFEB3B
+;
+}

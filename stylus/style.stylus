@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee+Inline')
+  
+  body
+    font-family: 'Bungee Inline', sans-serif
+     
+   #demo
+     display flex
+     justify-content:  center
+     align-items:  center
+     position: absolute
+     top 0
+     left 0
+     height: 100%
+     width:100%
+    
+  span
+    font-size:8vw
+    font-weight:200
+ 
+   .color1{color:tomato}
+   .color2{color: #aa0555}
+   .color3{color: deeppink}
+   .color4{color: #0099aa }
+   .color5{color: #00aa88}
+      
